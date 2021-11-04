@@ -9,7 +9,7 @@ public class ControlSwitch {
         switch (numero) {
             case 1:
                 numeroTexto = "Numero uno";
-                break;
+                break;//El break es para que si se cumple la condicion se realiza la accion y se salta todas las demas opciones del switch sino se pusiera el break seguiria ejecutando las demas condiciones
             case 2:
                 numeroTexto = "Numero dos";
                 break;

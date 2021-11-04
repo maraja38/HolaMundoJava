@@ -26,7 +26,7 @@ public class HolaMundo {
         var miVariable = 1;
         var _miVariable  = 2;
         var $miVariable = 3;
-        //var ámiVariable = 4; No se recomienda utilizar
+        //var ámiVariable = 4; No se recomienda utilizar letras con apostofes o acentos
         //var #miVariable = 10;    No se permite utilizar caracteres especiales
     }
    
